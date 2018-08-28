@@ -1,12 +1,4 @@
 <?php
-/**
- * The template for displaying search results pages.
- *
- * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#search-result
- *
- * @package MetroStore
- */
-
 get_header(); ?>
 
 <?php do_action( 'breadcrumb-woocommerce' ); ?>
@@ -53,5 +45,5 @@ get_header(); ?>
 			<?php get_sidebar(); ?>
 		</div>
 	</div>
-</div>
+</section>
 <?php get_footer();

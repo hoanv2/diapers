@@ -8,10 +8,6 @@ function metrostore_category_collection_widget() {
 }
 
 class metrostore_category_collection_widget_area extends WP_Widget {
-
-  /**
-   * Register widget with WordPress.
-  */
   public function __construct() {
       parent::__construct(
           'metrostore_category_collection_widget_area', esc_html__('MS: Woo Category Collection','metrostore'), array(

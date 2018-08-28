@@ -25,3 +25,12 @@ function diapers_load_theme_style() {
 }
 add_action('wp_enqueue_scripts', 'diapers_load_theme_style', 15 );
 
+function diapers_grid_classes($classes) {
+    if( is_archive() ) {
+        global $wp_query;
+        $classes[] = ( $wp_query->current_post%2 === 0 ? 'odd' : 'even' );
+    }
+    return $classes;
+}
+add_filter('post_class', 'diapers_grid_classes');
+

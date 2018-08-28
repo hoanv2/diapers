@@ -9,9 +9,6 @@ function metrostore_about_section_widget() {
 
 class metrostore_about_section_widget_area extends WP_Widget {
 
-  /**
-   * Register widget with WordPress.
-  **/
   public function __construct() {
       parent::__construct(
           'metrostore_about_section_widget_area', esc_html__('MS: About Section','metrostore'), array(

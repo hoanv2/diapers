@@ -8,10 +8,6 @@ function metrostore_contact_info_form_widget() {
 }
 
 class metrostore_contact_info_form_widget_area extends WP_Widget {
-
-  /**
-   * Register widget with WordPress.
-  **/
   public function __construct() {
       parent::__construct(
           'metrostore_contact_info_form_widget_area', esc_html__('MS: Contact Form Area','metrostore'), array(

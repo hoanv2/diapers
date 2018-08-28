@@ -54,6 +54,17 @@
         border-radius: 4px;
         color: #f3f3f3;
     }
+    .nf-form-fields-required{
+        visibility: hidden;
+    }
+    .btn-primary{
+        font-size: 20px !important;
+        background-color: #be3631 !important;
+        color: white !important;
+    }
+    .entry-title{
+        color: #1a1a1a !important;
+    }
 </style>
 
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
@@ -65,7 +76,7 @@
             <?php endif; ?>
          </div>
          <div class="right">
-            <h1 class="entry-title "><?php the_title(); ?></h1>
+            <h3 class="entry-title "><?php the_title(); ?></h3>
             <div class="entry-cat"><?php the_taxonomies( $args ); ?></div>
             <div class="entry-price">Giá: <?php echo get_post_meta( $post->ID, 'sanpham_price', true ); ?></div>
          </div>
@@ -129,6 +140,7 @@
 
       </div>
         <?php endif; ?>
-    <div class="buy-btn"> Đặt Hàng<?php echo do_shortcode( '[ninja_forms id=3 text_link="Đặt hàng"]' ); ?></div>
+    <hr>
 
+        <form class="buy-btn"> <h2 style="color: #be3631">Đặt Hàng Tại Đây</h2> <hr><?php echo do_shortcode( '[ninja_forms id=3 text_link="Đặt hàng"]' ); ?></form>
 </article>

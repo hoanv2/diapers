@@ -15,7 +15,7 @@ class metrostore_blogs_widget_area extends WP_Widget {
   public function __construct() {
       parent::__construct(
           'metrostore_blogs_widget_area', esc_html__('MS: Blogs Posts','metrostore'), array(
-          'description' => esc_html__('A widget that shows wordpress default posts', 'metrostore')
+          'description' => esc_html__('A widget that shows default posts', 'metrostore')
       ));
   }
   

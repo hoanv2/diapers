@@ -9,9 +9,6 @@ function metrostore_skills_section_widget() {
 
 class metrostore_skills_section_widget_area extends WP_Widget {
 
-  /**
-   * Register widget with WordPress.
-  **/
   public function __construct() {
       parent::__construct(
           'metrostore_skills_section_widget_area', esc_html__('MS: Skills Section','metrostore'), array(

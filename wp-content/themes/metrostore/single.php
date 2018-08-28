@@ -1,12 +1,4 @@
 <?php
-/**
- * The template for displaying all single posts.
- *
- * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#single-post
- *
- * @package MetroStore
- */
-
 get_header(); 
 
 	$metrostore_page_layout = esc_attr( get_post_meta($post->ID, 'metrostore_page_layouts', true) );

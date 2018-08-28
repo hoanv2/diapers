@@ -9,9 +9,6 @@ function metrostore_tabs_category_widget() {
 
 class metrostore_tabs_category_widget_area extends WP_Widget {
 
-  /**
-   * Register widget with WordPress.
-  **/
   public function __construct() {
       parent::__construct(
           'metrostore_tabs_category_widget_area', esc_html__('MS: Woo Tabs Category','metrostore'), array(

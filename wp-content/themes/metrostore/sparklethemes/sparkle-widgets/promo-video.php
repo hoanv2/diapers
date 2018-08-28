@@ -9,9 +9,6 @@ function metrostore_promo_video_widget() {
 
 class metrostore_promo_video_widget_area extends WP_Widget {
 
-  /**
-   * Register widget with WordPress.
-  **/
   public function __construct() {
       parent::__construct(
           'metrostore_promo_video_widget_area', esc_html__('MS: Promo Video Area','metrostore'), array(

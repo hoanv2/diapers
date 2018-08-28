@@ -12,3 +12,55 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: normal;
 }
 
+ .post-type-archive-sanpham .main-content-inner,
+ .tax-sanpham_cat .main-content-inner,
+ .home .main-content-inner{
+
+ }
+.post-type-archive-sanpham .main-content-inner .odd,
+.tax-sanpham_cat .main-content-inner .odd,
+.home .main-content-inner .odd{
+    width: 48.5%;
+    float: left;
+}
+.post-type-archive-sanpham .main-content-inner .even,
+.tax-sanpham_cat .main-content-inner .even,
+.home .main-content-inner .even{
+    width: 49.5%;
+    float: right;
+}
+.post-type-archive-sanpham .main-content-inner .even:after ,
+.tax-sanpham_cat .main-content-inner .even:after,
+.home .main-content-inner .even:after{
+    display: table;
+    clear: both;
+    content: "";
+}
+.paging-navigation {
+    overflow: auto;
+    width: 100%;
+}
+.post-type-archive-sanpham .main-content-inner .hentry ,
+.tax-sanpham_cat .main-content-inner .hentry,
+.home .main-content-inner .hentry{
+    background: #fff;
+    margin-bottom: 1em;
+
+}
+.post-type-archive-sanpham .blog-item-wrap,
+.tax-sanpham_cat .blog-item-wrap,
+.home .blog-item-wrap{
+    margin-bottom: 0;
+}
+.post-type-archive-sanpham .post-inner-content ,
+.tax-sanpham_cat .post-inner-content,
+.home .post-inner-content{
+
+    border: none !important;
+}
+.post-type-archive-sanpham .post-inner-content .entry-title ,
+.tax-sanpham_cat .post-inner-content .entry-title,
+.home .post-inner-content .entry-title{
+    font-size: 21px;
+    margin-bottom: 15px;
+}

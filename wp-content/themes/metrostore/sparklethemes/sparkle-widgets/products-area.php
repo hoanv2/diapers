@@ -9,9 +9,6 @@ function metrostore_product_widget() {
 
 class metrostore_product_widget_area extends WP_Widget {
 
-  /**
-   * Register widget with WordPress.
-  **/
   public function __construct() {
       parent::__construct(
           'metrostore_product_widget_area', esc_html__('MS: Woo Products Area','metrostore'), array(

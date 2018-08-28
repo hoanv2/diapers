@@ -19,6 +19,11 @@ get_header();
 		$metrostore_col = 12;
 	}
 ?>
+<!--    <style>-->
+<!--        .post-inner-content{-->
+<!--           background-color:#D3DAE0;-->
+<!--        }-->
+<!--    </style>-->
 
 <?php do_action( 'breadcrumb-woocommerce' ); ?>
 

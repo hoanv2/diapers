@@ -1,11 +1,4 @@
 <?php
-/**
- * The template for displaying archive pages.
- *
- * @link https://codex.wordpress.org/Template_Hierarchy
- *
- * @package MetroStore
- */
 
 get_header(); ?>
 
@@ -51,5 +44,5 @@ get_header(); ?>
 			<?php get_sidebar(); ?>
 		</div>
 	</div>
-</div>
+</section>
 <?php get_footer();

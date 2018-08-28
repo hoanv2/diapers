@@ -2,11 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42ac2776-30a6-43ec-99ca-cc2e913c4686" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/metrostore-child/archive-sanpham.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/metrostore-child/content-archive-sanpham.ph.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/metrostore-child/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/metrostore-child/taxonomy-sanpham_cat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/sparkling-child/function.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/admin-footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/admin-footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/admin-header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/admin-header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/assets/js/min/front-end.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/assets/js/min/front-end.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/assets/js/min/front-end.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/assets/js/min/front-end.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/deprecated/ninja-forms.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/deprecated/ninja-forms.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/includes/Actions/Email.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/includes/Actions/Email.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/includes/Admin/AddFormModal.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/includes/Admin/AddFormModal.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/includes/Admin/Menus/ImportExport.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/includes/Admin/Menus/ImportExport.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/includes/Config/FieldSettings.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/includes/Config/FieldSettings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/includes/Fields/Textbox.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/includes/Fields/Textbox.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/includes/Templates/admin-metabox-import-export-forms-import.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/includes/Templates/admin-metabox-import-export-forms-import.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/lib/NF_UpgradeThrottle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/ninja-forms.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/ninja-forms.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/ninja-forms/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore-child/content-single-sanpham.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore-child/content-single-sanpham.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore-child/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore-child/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore-child/single-sanpham.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore-child/single-sanpham.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore-child/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore-child/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/archive.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/archive.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/comments.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/comments.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/08/ninja-forms-1.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/08/ninja-forms.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/metrostore-home.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/metrostore-home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/search.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/sidebar-left.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/sidebar-left.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/single.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/single.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/core/custom-header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/core/custom-header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/hooks/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/hooks/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/hooks/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/hooks/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/about-section.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/about-section.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/blogs-widget.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/blogs-widget.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/category-collection.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/category-collection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/contact-form-info.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/contact-form-info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/products-area.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/products-area.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/promo-video.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/promo-video.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/quick-contact-info.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/quick-contact-info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/skills-section.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/skills-section.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/tabs-category.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/tabs-category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/tabs-defaults.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/tabs-defaults.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/metrostore/template-parts/content.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/metrostore/template-parts/content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/sparkling-child/content-single-sanpham.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/sparkling-child/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/sparkling-child/inc/custom-post-type.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/sparkling-child/inc/custom-taxonomy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/sparkling-child/inc/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/sparkling-child/inc/init.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/sparkling-child/piklist/parts/meta-boxes/sanpham.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/sparkling-child/single-sanpham.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/sparkling-child/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/sparkling-child/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,74 +70,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/header.php">
+      <file leaf-file-name="single-sanpham.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/single-sanpham.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="922">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="323">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="e#6#178#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="metrostore-home.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/metrostore-home.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/index.php">
+      <file leaf-file-name="init.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sparkling-child/inc/init.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+            <state relative-caret-position="102">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comments.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/comments.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/page.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content-single.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/template-parts/content-single.php">
+      <file leaf-file-name="function.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sparkling-child/function.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="custom-header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/core/custom-header.php">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sparkling-child/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template-tags.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/core/template-tags.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="class-customize.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/customizer/customizer-pro/class-customize.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+            <state relative-caret-position="102">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pagination.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/woocommerce/loop/pagination.php">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -101,6 +119,15 @@
       <find>get_template_part</find>
       <find>Giá</find>
       <find>masthead</find>
+      <find>container logo_nav</find>
+      <find>post-inner-content</find>
+      <find>if ( have_posts() )</find>
+      <find>Read more</find>
+      <find>w</find>
+      <find>admin</find>
+      <find>WordPress</find>
+      <find>2018</find>
+      <find>wordpress</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -113,18 +140,50 @@
         <option value="$PROJECT_DIR$/wp-content/themes/metrostore-child/inc/init.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/metrostore-child/functions1.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/metrostore-child/inc/custom-taxonomy.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/metrostore-child/inc/custom-post-type.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/metrostore-child/piklist/parts/meta-boxes/sanpham.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/metrostore-child/content.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/metrostore-child/single-sanpham.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/sparkling-child.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/metrostore-child/functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/sparkling-child/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/sparkling-child/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/archive.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/comments.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/metrostore-home.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/search.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/sidebar.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/sidebar-left.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/single.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/core/custom-header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/core/extras.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/hooks/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/about-section.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/category-collection.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/contact-form-info.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/products-area.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/promo-video.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/quick-contact-info.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/skills-section.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/tabs-defaults.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/tabs-category.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/widgets-fields.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/hooks/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore-child/single-sanpham.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore-child/inc/custom-post-type.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore-child/archive-sanpham.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore-child/taxonomy-sanpham_cat.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore-child/content-archive-sanpham.ph.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/metrostore-child/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/metrostore-child/content-single-sanpham.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/comments.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore-child/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/blogs-widget.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/template-parts/content.php" />
+        <option value="$PROJECT_DIR$/wp-admin/admin-footer.php" />
+        <option value="$PROJECT_DIR$/wp-admin/admin-post.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/admin/about-theme/metrostore-about.php" />
+        <option value="$PROJECT_DIR$/wp-admin/admin-header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sparkling-child/style.css" />
       </list>
     </option>
   </component>
@@ -142,8 +201,9 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="628" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="426" />
+    <option name="y" value="74" />
     <option name="width" value="1094" />
     <option name="height" value="919" />
   </component>
@@ -177,23 +237,7 @@
               <item name="diapers" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="metrostore" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="diapers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diapers" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="metrostore" type="462c0819:PsiDirectoryNode" />
-              <item name="sparklethemes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="diapers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diapers" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="metrostore" type="462c0819:PsiDirectoryNode" />
-              <item name="woocommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkling-child" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,15 +247,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../proj_otocon" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\diapers\wp-content\themes\sparkling-child" />
       <recent name="C:\xampp\htdocs\diapers\wp-content\themes\metrostore-child" />
+      <recent name="C:\xampp\htdocs\diapers\wp-content\themes\sparkling-child" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -241,43 +285,42 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15071000" />
+    <option name="totallyTimeSpent" value="29392000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13965885" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1380597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="17" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="19" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="20" />
       <window_info id="Favorites" order="3" side_tool="true" />
     </layout>
   </component>
@@ -288,296 +331,334 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sparkling-child/inc/custom-post-type.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sparkling-child/content-single-sanpham.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/content-archive-sanpham.ph.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-918">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/inc/custom-taxonomy.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sparkling-child/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
-            <element signature="e#6#93#0#PHP" expanded="true" />
+            <element signature="e#6#35#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sparkling-child/single-sanpham.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/taxonomy-sanpham_cat.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+        <state relative-caret-position="612">
+          <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/archive-sanpham.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/inc/init.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/inc/custom-post-type.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="1122">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-blog-header.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/inc/custom-taxonomy.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-trackback.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/piklist/parts/meta-boxes/sanpham.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-load.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/metrostore-home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-561" />
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="289">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/core/custom-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/core/template-tags.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/hooks/woocommerce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/hooks/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="150" column="63" selection-start-line="150" selection-start-column="63" selection-end-line="150" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/hooks/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="93" column="70" selection-start-line="93" selection-start-column="70" selection-end-line="93" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/products-area.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/promo-video.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/quick-contact-info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/skills-section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/tabs-category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/tabs-defaults.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/widgets-fields.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="808">
+          <caret line="323" column="37" lean-forward="true" selection-start-line="323" selection-start-column="37" selection-end-line="323" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/about-section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/category-collection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="111" column="70" selection-start-line="111" selection-start-column="70" selection-end-line="111" selection-end-column="70" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/sparkle-widgets/blogs-widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/template-parts/content-single.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/template-parts/content-search.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/template-parts/content-page.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/template-parts/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="48" column="94" lean-forward="true" selection-start-line="48" selection-start-column="85" selection-end-line="48" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sidebar-left.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/custom-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="123" column="51" selection-start-line="123" selection-start-column="42" selection-end-line="123" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/admin-post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="23" column="54" lean-forward="true" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/admin-functions.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/admin-ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/menu-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1955">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/admin-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2074">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/admin-footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="63" column="3" lean-forward="true" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#112#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/admin/about-theme/metrostore-about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="130" column="126" selection-start-line="130" selection-start-column="117" selection-end-line="130" selection-end-column="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/content-single-sanpham.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="73" column="42" selection-start-line="73" selection-start-column="42" selection-end-line="73" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#form#0;n#article#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/user/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-login.php">
+    <entry file="file://$PROJECT_DIR$/wp-admin/includes/admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1258">
-          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-        </state>
+        <state relative-caret-position="-612" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/404.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/content-single-sanpham.php">
+    <entry file="file://$PROJECT_DIR$/wp-admin/user/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="81" column="29" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/custom-taxonomy.php" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="304" column="48" selection-start-line="304" selection-start-column="48" selection-end-line="304" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/functions.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="239" column="9" selection-start-line="239" selection-start-column="9" selection-end-line="239" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1550">
-          <caret line="5240" column="20" selection-start-line="5240" selection-start-column="20" selection-end-line="5240" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/template-parts/content.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/content.php" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sparkling-child.php" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/inc/custom-post-type.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/inc/init.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/piklist/parts/meta-boxes/sanpham.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sparkling-child/piklist/parts/meta-boxes/sanpham.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" lean-forward="true" selection-start-line="9" selection-end-line="26" />
+        <state relative-caret-position="119">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/single-sanpham.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sparkling-child/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#178#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/sparkling-child/inc/init.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sparkling-child/inc/custom-taxonomy.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sparkling-child/inc/custom-post-type.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sparkling-child/function.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sparkling-child/content-single-sanpham.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sparkling-child/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-918">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/inc/custom-taxonomy.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sparkling-child/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="e#6#93#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sparkling-child/single-sanpham.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore-child/content-single-sanpham.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/template-parts/content-single.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/core/custom-header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/core/template-tags.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/sparklethemes/customizer/customizer-pro/class-customize.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/woocommerce/loop/pagination.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/comments.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="922">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/metrostore-home.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/metrostore/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        <state relative-caret-position="102">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
